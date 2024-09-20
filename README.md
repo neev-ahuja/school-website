@@ -10,7 +10,6 @@ https://htmlpreview.github.io/?https://github.com/neev-ahuja/school-website/blob
 &emsp;About Us<br>
 &emsp;Contact Us<br>
 
-### **Technologies Used::**<br>
 **This website is built with:**<br>
 &emsp;HTML5<br>
 &emsp;CSS3<br>
