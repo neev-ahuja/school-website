@@ -1,5 +1,8 @@
 # **Example School Website**
 
+**Visit Site ::**
+https://htmlpreview.github.io/?https://github.com/neev-ahuja/school-website/blob/main/index.html
+
 **Navigate through the menu:**<br>
 &emsp;Home<br>
 &emsp;Eligibility<br>
